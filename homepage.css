@@ -48,6 +48,7 @@ span{
     transform: translateX(-50%);
     text-align: center  !important;
     font-size: xx-large;
+    z-index: 10;
 }
 
 .nav-title{
@@ -106,7 +107,7 @@ background-size: cover;
 .nav-desc{
     color: #F2EFE9;
     font-size: 4vh;
-    text-shadow: 2px 2px 8px #d55258;
+    text-shadow: 2px 2px 8px grey;
     top: 48%;
     left: 35%;
 
